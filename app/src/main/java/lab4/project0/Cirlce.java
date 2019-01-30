@@ -1,4 +1,4 @@
 package lab4.project0;
 
-public class Rectangle extends Shape{
+public class Circle extends Shape{
 }
