@@ -1,4 +1,5 @@
 package lab4.project0;
 
-public class Rectangle {
+public class Rectangle extends Shape{
+    private int z;
 }
